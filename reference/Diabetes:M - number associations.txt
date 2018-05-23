@@ -1,0 +1,125 @@
+﻿0 -> Snack
+1 -> Before breakfast
+2-> After breakfast
+3-> Before lunch
+4 -> After lunch
+5 -> Before dinner
+6 -> After dinner
+7 -> Night
+8 -> Other
+9 -> Fasting
+10 -> Before bed
+11 -> Breakfast
+12 -> Lunch
+13 -> Dinner
+14 -> Before exercise
+15 -> After exercise
+
+
+
+
+0 -> None
+1 -> Other
+2 -> Aerobics
+3 -> Australian football
+4 -> Backcountry skiing
+5 -> Badminton
+6 -> Baseball
+7 -> Basketball
+8 -> Beach volleyball
+9 -> Biathlon
+10 -> Biking
+11 -> Boxing
+12 -> Calisthenics
+13 -> Circuit training
+14 -> Cricket
+15 -> Cross-country skiing
+16 -> Cross skating
+17 -> Curling
+18 -> Dancing
+19 -> Diving
+20 -> Downhill skiing
+21 -> Elliptical
+22 -> Ergometer
+23 -> Fencing
+24 -> Fitness
+25 -> Fitness walking
+26 -> Football
+27 -> Frisbee
+28 -> Gardening
+29 -> Golf
+30 -> Gymnastics
+31 -> Handball
+32 -> Handcycling
+33 -> Hiking
+34 -> Hockey
+35 -> Horseback riding
+36 -> Housework
+37 -> Ice skating
+38 -> Indoor skating
+39 -> Indoor volleyball
+40 -> Inline skating
+41 -> Jogging
+42 -> Jumping rope
+43 -> Kayaking
+44 -> Kettlebell
+45 -> Kickboxing
+46 -> Kite skiing
+47 -> Kitesurfing
+48 -> Martial arts
+49 -> Meditating
+50 -> Mixed martial arts
+51 -> Mountain biking
+52 -> Nordic walking
+53 -> Open water swimming
+54 -> P90x
+55 -> Paddle boarding
+56 -> Paragliding
+57 -> Pilates
+58 -> Polo
+59 -> Pool Swimming
+60 -> Racquetball
+61 -> Road biking
+62 -> Rock climbing
+63 -> Roller skiing
+64 -> Rowing
+65 -> Rowing machine
+66 -> Rugby
+67 -> Running
+68 -> Sailing
+69 -> Sand running
+70 -> Scuba diving
+71 -> Skateboarding
+72 -> Skating
+73 -> Skiing
+74 -> Sledding
+75 -> Snowboarding
+76 -> Snowmobiling
+77 -> Snowshoeing
+78 -> Soccer
+79 -> Softball
+80 -> Spinning
+81 -> Squash
+82 -> Stair climbing
+83 -> Stair climbing machine
+84 -> Stationary biking
+85 -> Strength training
+86 -> Surfing
+87 -> Swimming
+88 -> Table tennis
+89 -> Team sport
+90 -> Tennis
+91 -> Treadmill
+92 -> Treadmill running
+93 -> Treadmill walking
+94 -> Utility biking
+95 -> Volleyball
+96 -> Wakeboarding
+97 -> Walking
+98 -> Water polo
+99 -> Weight lifting
+100 -> Wheelchair
+101 -> Windsurfing
+102 -> Wrestling
+103 -> Yoga
+104 -> Zumba
