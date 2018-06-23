@@ -14,7 +14,7 @@
 			{!! $empty_row !!}
 		@endif
 		@if ( $entry->glucose )
-			<p class="col-6 m-0 p-1 text-white {{ $bg_color }}"><i class="fas fa-tint"></i> {{ number_format($entry->glucose, 1, '.', ' ') }}</p>
+			<p class="col-6 m-0 p-1 text-white {{ $bg_color }}"><i class="diabetes icon-tint"></i> {{ number_format($entry->glucose, 1, '.', ' ') }}</p>
 		@else
 			{!! $empty_row !!}
 		@endif
@@ -25,13 +25,13 @@
 		@else
 			@if ( $entry->category == 8 )
 				@php( $time = \Carbon\Carbon::createFromFormat('Y-m-d H:i:s', $entry->datetimeformatted)->format('H:i'))
-				<p class="col-6 m-0 p-1"><i class="fas fa-clock"></i> {{ $time }}</p>
+				<p class="col-6 m-0 p-1"><i class="diabetes icon-clock"></i> {{ $time }}</p>
 			@else
 				{!! $empty_row !!}
 			@endif
 		@endif
 		@if ( $entry->carbs )
-			<p class="col-6 m-0 p-1"><i class="fas fa-utensils"></i> {{ number_format($entry->carbs/10, 1, '.', ' ') }}</p>
+			<p class="col-6 m-0 p-1"><i class="diabetes icon-food"></i> {{ number_format($entry->carbs/10, 1, '.', ' ') }}</p>
 		@else
 			{!! $empty_row !!}
 		@endif

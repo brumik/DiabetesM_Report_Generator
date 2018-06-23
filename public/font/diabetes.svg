@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2018 by original authors @ fontello.com</metadata>
+<defs>
+<font id="diabetes" horiz-adv-x="1000" >
+<font-face font-family="diabetes" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="tint" unicode="&#xe800;" d="M286 207q0 20-11 39-1 0-9 12t-14 21-14 25-12 28q-2 9-12 9t-11-9q-4-13-12-28t-14-25-14-21-9-12q-11-19-11-39 0-29 21-50t50-21 51 21 21 50z m285 72q0-119-83-202t-202-84-202 84-84 202q0 81 45 153 4 5 35 51t56 84 56 99 46 113q5 16 19 26t29 9 29-9 18-26q16-52 47-113t55-99 56-84 35-51q45-71 45-153z" horiz-adv-x="571.4" />
+
+<glyph glyph-name="clock" unicode="&#xe801;" d="M500 546v-250q0-7-5-12t-13-5h-178q-8 0-13 5t-5 12v36q0 8 5 13t13 5h125v196q0 8 5 13t12 5h36q8 0 13-5t5-13z m232-196q0 83-41 152t-110 111-152 41-153-41-110-111-41-152 41-152 110-111 153-41 152 41 110 111 41 152z m125 0q0-117-57-215t-156-156-215-58-216 58-155 156-58 215 58 215 155 156 216 58 215-58 156-156 57-215z" horiz-adv-x="857.1" />
+
+<glyph glyph-name="food" unicode="&#xf0f5;" d="M357 814v-357q0-34-20-62t-51-39v-435q0-29-21-50t-51-21h-71q-29 0-50 21t-22 50v435q-31 11-51 39t-20 62v357q0 15 11 25t25 11 25-11 10-25v-232q0-14 11-25t25-11 25 11 11 25v232q0 15 11 25t25 11 25-11 10-25v-232q0-14 11-25t25-11 25 11 11 25v232q0 15 10 25t25 11 26-11 10-25z m429 0v-893q0-29-21-50t-51-21h-71q-29 0-50 21t-22 50v286h-125q-7 0-12 5t-5 13v446q0 74 52 127t126 52h143q15 0 25-11t11-25z" horiz-adv-x="785.7" />
+</font>
+</defs>
+</svg>

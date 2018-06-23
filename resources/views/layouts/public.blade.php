@@ -8,8 +8,8 @@
 
 	<!-- Latest compiled and minified CSS -->
 	<link rel="stylesheet" href="{{ asset('css/bootstrap.min.css') }}">
-	<link rel="stylesheet" href="{{ asset('css/fontawesome-all.min.css') }}">
-	<script src="{{ asset('js/bootstrap.bundle.min.js') }}"></script>
+	<link rel="stylesheet" href="{{ asset('css/diabetes.css') }}">
+
 	<title>{{ env('APP_NAME') }}</title>
 </head>
 <body>

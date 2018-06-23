@@ -64,5 +64,10 @@ class UploadController extends Controller
 			'days' => $days,
 		]);
 
+//		$html = \View::make('report')->with([
+//			'days' => $days
+//		])->render();
+//		return \PDF::loadHTML($html)->inline('myfile.pdf');
+
 	}
 }
